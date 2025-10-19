@@ -1,0 +1,16 @@
+{
+  "name": "techsolutions-web",
+  "version": "1.0.0",
+  "description": "Proyecto estático para simular flujo Git Flow y CI/CD.",
+  "scripts": {
+    "start": "echo \"La app se ejecuta de forma estática.\"",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "static",
+    "html",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
